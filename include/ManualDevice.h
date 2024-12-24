@@ -9,7 +9,7 @@ public:
 ManualDevice() : type(0){}
 
 //virtual
-virtual int getId();
+//virtual int getId();
 
 //create manual device
 ManualDevice createDevice(int id);

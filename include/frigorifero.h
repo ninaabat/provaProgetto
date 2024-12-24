@@ -10,9 +10,7 @@ class frigorifero : public ManualDevice{
     frigorifero();
 
     //getter
-    int getId() {
-        return id;
-    }
+    int getId() override;
 
     protected:
     std::string name;

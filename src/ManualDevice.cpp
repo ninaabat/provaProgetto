@@ -6,5 +6,8 @@ ManualDevice ManualDevice::createDevice(int id){
 
     if(id = 6){
         frigorifero f;
+        return f;
     }
+
+
 }
