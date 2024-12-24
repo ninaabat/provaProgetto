@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ems_executable.dir/main.cpp.o CMakeFiles/ems_executable.dir/src/Device.cpp.o CMakeFiles/ems_executable.dir/src/ManualDevice.cpp.o CMakeFiles/ems_executable.dir/src/frigorifero.cpp.o -o /home/nina/Scrivania/prova2/bin/ems_executable 

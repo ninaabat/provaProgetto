@@ -1,0 +1,3 @@
+/home/nina/Scrivania/prova2/build/CMakeFiles/ems_executable.dir
+/home/nina/Scrivania/prova2/build/CMakeFiles/edit_cache.dir
+/home/nina/Scrivania/prova2/build/CMakeFiles/rebuild_cache.dir
